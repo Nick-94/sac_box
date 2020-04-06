@@ -12,21 +12,21 @@
 		{
 			"kind": "main",
 			"tag": "com-demo-gauge",
-			"url": "https://github.com/Nick-94/sac_box/blob/master/box.js",
+			"url": "https://github.com/Nick-94/sac_box/blob/master/gauge.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
 			"tag": "com-demo-gauge-sps",
-			"url": "https://github.com/Nick-94/sac_box/blob/master/box_sps.js",
+			"url": "https://github.com/Nick-94/sac_box/blob/master/gauge_sps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
 			"tag": "com-demo-box-bps",
-			"url": "https://github.com/Nick-94/sac_box/blob/master/box_bps.js",
+			"url": "https://github.com/Nick-94/sac_box/blob/master/gauge_bps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
